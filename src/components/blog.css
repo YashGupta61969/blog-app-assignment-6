@@ -1,0 +1,36 @@
+.blog_page_head{
+    margin: 4rem 0;
+    text-align: center;
+}
+
+.blog_page_head h1{
+    font-size: 3rem;
+}
+
+.blog_page_head span{
+    display: block;
+    margin-top: 1rem;
+    font-size: 1.8rem;
+}
+
+.blog_page_head p{
+    font-size: 2rem;
+}
+
+.description{
+    max-width: 68%;
+    margin: 2rem auto;
+}
+
+.description p{
+    font-size: 1.8rem;
+}
+
+.description :not(:first-child){
+    margin-top: 2rem;
+}
+
+.description span{
+    font-size: 2rem;
+    margin-right: 2rem;
+}
